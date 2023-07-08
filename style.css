@@ -1,0 +1,10 @@
+.Sitio{
+    background-color: rgb(219, 252, 241);
+    background: rgb(210, 184, 245,);padding: 0.1;
+}
+.caja{
+    opacity: 1.0;
+    background-position: right;
+    inline-size: 0%;
+}
+
